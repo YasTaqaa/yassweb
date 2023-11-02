@@ -9,7 +9,7 @@ export default function Example() {
 
         <Navbar />
         
-      <div className="mx-auto  px-6 lg:px-8 py-7">
+      <div className="mx-auto  px-6 lg:px-8 py-7 font-serif">
           <div className="lg:pr-8 lg:pt-4">
               <p className="mt-1 font-bold tracking-tight text-gray-900 sm:text-4xl">Video AMV Random :</p>
                <div className="mt-9 grid sm:grid-cols-2 xl:gap-x-9">

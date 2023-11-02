@@ -12,7 +12,7 @@ export default function Example() {
       <div className='overflow hidden' class='bg-cover bg-center bg-blue-100'>
         <Navbar />
         <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
-        <h2 className="text-4xl font-bold tracking-tight text-gray-900 lg:px-8">Music Random :</h2>
+        <h2 className="text-4xl font-bold tracking-tight text-gray-900 lg:px-8 font-serif">Music Random :</h2>
         <div className="mt-2 grid grid-cols-2 gap-x-12 gap-y-10 lg:px-8">
         <div class='video-container'>
             <div class='video'>
