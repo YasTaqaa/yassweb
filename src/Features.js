@@ -10,7 +10,7 @@ export default function Example() {
         <Navbar />
         <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
         <h2 className="text-4xl font-bold tracking-tight text-gray-900 lg:px-8 font-serif">Trailer Battlesuit Honkai Impact :</h2>
-        <div className="mt-2 grid grid-cols-3 gap-x-7 gap-y-10 lg:px-8">
+        <div className="mt-2 grid grid-cols-3 gap-x-6 gap-y-10 lg:px-8">
         <div class='video-container'>
             <div class='video'>
                  <iframe width="325" height="225" src="https://www.youtube.com/embed/MtwcF68spyU?si=D0AgYcn-4UQkRrRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" Allow="fullscreen"></iframe>
