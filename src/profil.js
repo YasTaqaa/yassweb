@@ -4,14 +4,14 @@ import React from 'react';
 const Profile = () => {
   return (
     
-    <div className="bg-blue-900 font-serif">
-      <div className="container mx-auto p-40">
-        <div className="bg-white rounded-lg shadow-md p-9">
+    <div className="bg-cover bg-center bg-image-url-1">
+      <div className="w-2/3 mx-auto p-40">
+        <div className="bg-gradient-to-r from-purple-300 to-blue-200 rounded-lg shadow-md p-9">
           <div className="text-center">
             <img
-              src="https://media.discordapp.net/attachments/1077839624099086366/1166915004088455232/11zon_cropped.png?ex=655573c9&is=6542fec9&hm=781960d0ee627ca7f7775d24d3b4a2ae37ce1bd0a8e79cacd42e4fe81f88face&=&width=662&height=662"
+              src="https://cdn.discordapp.com/attachments/935856252494417982/1171668886949736518/output-onlinegiftools.gif?ex=655d84af&is=654b0faf&hm=44c5a090f94a9fef7b4789b1a929a6feb2d6b7ea96024845621ee118c7eedaf5&"
               alt="Profil Saya"
-              className="w-24 h-24 mx-auto rounded-full"
+              className="w-25 h-24 mx-auto rounded-full"
             />
             <h1 className="text-2xl font-bold mt-8">Ilyas A'thaa Wat Taqaa</h1>
             <p className="text-gray-500 mt-2">NIM: 2203040112</p>

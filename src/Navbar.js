@@ -4,9 +4,9 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
     { name: 'Home', href: '/' },
-    { name: 'Pictures', href: '/Product' },
-    { name: 'Video AMV', href: '/Features' },
-    { name: 'Music video', href: '/video' },
+    { name: 'Character', href: '/Product' },
+    { name: 'Trailer', href: '/Features' },
+    { name: 'Music Video', href: '/video' },
 
   ]
 
@@ -15,14 +15,14 @@ export default function Example() {
 
   return (
     <div className="bg-white font-serif">
-      <header className="absolute inset-x-0 top-0 z-50" class="bg-blue-300">
+      <header className="absolute inset-x-0 top-0 z-50" class="bg-gradient-to-r from-purple-300 to-blue-200">
         <nav className="flex items-center justify-between p-4" aria-label="Global">
-          <div className="flex lg:flex-1">
+          <div className="flex px-9">
             <a href="profil" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
               <img
                 className="h-8 w-auto"
-                src="https://media.discordapp.net/attachments/1077839624099086366/1166915004088455232/11zon_cropped.png?ex=654c3949&is=6539c449&hm=ddaf4c947ac4de970226547c7239e239a939504ee6d1d677b3e0e9beb4e699be&=&width=662&height=662"
+                src="https://cdn.discordapp.com/attachments/935856252494417982/1171668886949736518/output-onlinegiftools.gif?ex=655d84af&is=654b0faf&hm=44c5a090f94a9fef7b4789b1a929a6feb2d6b7ea96024845621ee118c7eedaf5&"
                 alt=""
               />             
             </a>
